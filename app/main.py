@@ -9,3 +9,4 @@ app = FastAPI()
 
 app.include_router(tariffs.router, prefix="/api")
 app.include_router(calculator.router, prefix="/api")
+

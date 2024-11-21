@@ -3,3 +3,7 @@ uvicorn==0.22.0
 SQLAlchemy==2.0.21
 psycopg2-binary==2.9.8
 requests
+confluent-kafka
+pydantic
+pytest
+kafka-python
